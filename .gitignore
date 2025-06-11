@@ -1,0 +1,22 @@
+# Dossiers
+dataset/
+preprocessing/
+other/
+__pycache__/
+model/
+/dataset
+catboost_info/
+database/
+mlflow/
+mlruns/
+mlartifacts/
+
+model_loader/
+
+# Fichiers
+.ruff.toml
+.env
+mlflow.db
+.vscode/
+.ruff_cache/
+.pytest_cache/
