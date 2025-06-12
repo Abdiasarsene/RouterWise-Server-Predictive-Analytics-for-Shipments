@@ -100,7 +100,7 @@ Deployed metrics collected in real time:
 
 Visualized via **Grafana dashboards**.
 
-![Dashboard Grafana](./statics/grafana.mp4)
+![Dashboard Grafana][(./statics/grafana.mp4)](https://drive.google.com/file/d/1uD0oQKDrmADOqS0NHQR6PEfOGW2Jhqwu/view?usp=drive_link)
 
 ---
 
