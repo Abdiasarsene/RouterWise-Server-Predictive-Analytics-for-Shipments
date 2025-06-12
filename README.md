@@ -12,6 +12,8 @@ Designed for high-value and highly constrained logistics workflows, this pipelin
 - Modular, production-first codebase for scalability
 
 ---
+![API Predictiver](./statics/postman.png)
+---
 
 ## 🧰 Tech Stack
 
@@ -29,8 +31,8 @@ Designed for high-value and highly constrained logistics workflows, this pipelin
 | Containerization      | Docker, docker-compose                                           |
 | Retraining            | `retrain/` (upcoming), Celery + Beat                            |
 
+![Feature Selection](./statics/feature_seledction.png)
 ---
-
 ## 🏗️ Modular Project Architecture
 
 ```
@@ -74,6 +76,7 @@ routerwise/
 8. **CI/CD**:
    - Automated with `Jenkinsfile`, lint/test/build/deploy
 
+![Mlflow & BentoML](./statics/api.png)
 ---
 
 ## 🔄 Continuous Training Strategy (Planned)
@@ -96,6 +99,8 @@ Deployed metrics collected in real time:
 - Data quality checks on inputs
 
 Visualized via **Grafana dashboards**.
+
+![Dashboard Grafana](./statics/grafana.mp4)
 
 ---
 
@@ -121,7 +126,7 @@ make deploy      # Build + push containers
 make monitoring  # Start Prometheus + Grafana stack
 make format      # Run flake8 or ruff
 ````
-
+![Makefile](./statics/makefile.png)
 ---
 
 ## 🔒 Reproducibility & Integrity
@@ -158,4 +163,6 @@ Focused on real-world, cross-industry ML solutions (Health, Humanitarian, Financ
 
 > *“I don't write code to run. I write code to endure.”*
 
-```
+---
+
+![MLflow](./statics/mlflow.png)
