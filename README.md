@@ -98,7 +98,7 @@ Deployed metrics collected in real time:
 - Drift detection on incoming data streams
 - Data quality checks on inputs
 
-Visualized via **Grafana dashboards**.
+Visualized via **Grafana dashboards**. **(CLICK ON THE IMAGE BELOW TO WATCH THE VIDEO)**
 
 [![Dashboard Preview](./statics/grafana_preview.png)](https://drive.google.com/file/d/1uD0oQKDrmADOqS0NHQR6PEfOGW2Jhqwu/view?usp=drive_link)
 
