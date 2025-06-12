@@ -9,7 +9,7 @@ from prometheus_client import Gauge, start_http_server
 
 # ====== CHARGEMENT DES PARAMETRES DEPUIS .env ======
 load_dotenv()
-dataset_path = os.getenv("DATASET_PATH")
+dataset_path = os.getenv("TRAIN_DATASET_PATH")
 
 # ====== DICTIONNAIRES DE METRIQUES ======
 null_rate_metrics = {}

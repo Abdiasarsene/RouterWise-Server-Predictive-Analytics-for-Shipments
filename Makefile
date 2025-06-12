@@ -62,3 +62,8 @@ run:
 	@echo "Lancement de l'API..."
 	@uvicorn main:app --reload
 
+# ====== LANCER PROMETHEUS =====
+.PHONY: prometheus
+prometheus : 
+	@echo : "Lancement de Prometheus"
+	@cd "C:\Program Files\Prometheus"
