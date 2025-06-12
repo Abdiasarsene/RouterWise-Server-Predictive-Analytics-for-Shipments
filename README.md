@@ -31,7 +31,7 @@ Designed for high-value and highly constrained logistics workflows, this pipelin
 | Containerization      | Docker, docker-compose                                           |
 | Retraining            | `retrain/` (upcoming), Celery + Beat                            |
 
-![Feature Selection](./statics/feature_seledction.png)
+![Feature Selection](./statics/feature_selection.png)
 ---
 ## 🏗️ Modular Project Architecture
 
