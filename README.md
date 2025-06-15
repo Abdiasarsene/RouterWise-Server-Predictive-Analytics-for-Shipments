@@ -152,8 +152,6 @@ make format      # Run flake8 or ruff
 ## 🤝 Contribution
 
 This is not a starter project, but an evolving production-grade pipeline.
-If you're interested in contributing, please open a PR with clear module boundaries and test coverage.
-
 ---
 
 ## 🔗 About
